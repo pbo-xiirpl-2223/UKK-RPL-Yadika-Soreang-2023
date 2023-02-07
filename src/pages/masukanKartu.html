@@ -4,20 +4,22 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width" />
 		<title>ATM - Masukan Kartu</title>
-		<link href="/dist/output.css" rel="stylesheet" />
+		<!-- <script src="https://cdn.tailwindcss.com"></script> -->
+		<!-- <link href="/dist/output.css" rel="stylesheet" /> -->
+		<link href="/src/styles/masukanKartu.css" rel="stylesheet" />
 	</head>
-	<body class="bg-[#324154] px-28 py-10 h-[100vh] flex items-center">
-		<div class="container bg-[#597298] rounded-lg flex">
-			<div
-				class="heading w-8/12 flex flex-col items-center justify-center text-white text-center text-[32pt] font-mono px-10"
-			>
+	<body>
+		<div class="container">
+			<div class="heading">
 				<h1>Silahkan Masukan Kartu Anda</h1>
-				<hr class="border-2 w-8/12 my-5" />
+				<hr />
 				<h1>Please Insert Your Card</h1>
 			</div>
-			<a href="/src/pages/pilihBahasa.html">
-				<img class="rounded-lg" src="/src/images/masukan-kartu.jpg" />
-			</a>
+			<div class="container-img">
+				<a href="/src/pages/pilihBahasa.html">
+					<img src="/src/images/masukan-kartu.jpg" />
+				</a>
+			</div>
 		</div>
 	</body>
 </html>
