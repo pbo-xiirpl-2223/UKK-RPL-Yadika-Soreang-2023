@@ -4,7 +4,7 @@ Starterkit Latihan UKK2023
 
 # SOAL PRAKTIK DEMONSTRASI
 
-https://drive.google.com/file/d/1ebwHCh62J042o0Zhw4WZK7P4Bkvlk-Cf/view?usp=share_link
+https://drive.google.com/file/d/1zJbTsKvMOw4vxEXDi0zQyGeBw0XvcBVz/view?usp=share_link
 
 # PETUNJUK
 
