@@ -1,6 +1,6 @@
-# LATIHAN UKK 2023
+# Simulasi UKK RPL SMK Yadika Soreang 2023
 
-Starterkit Latihan UKK2023
+Download Starterkit berupa zip pada repository ini
 
 # SOAL PRAKTIK DEMONSTRASI
 
