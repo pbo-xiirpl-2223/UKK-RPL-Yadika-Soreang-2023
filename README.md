@@ -1,4 +1,4 @@
-# Simulasi UKK RPL SMK Yadika Soreang 2023
+# Simulasi UKK PPLG SMK Yadika Soreang 2024
 
 # SOAL PRAKTIK DEMONSTRASI
 https://drive.google.com/file/d/1zJbTsKvMOw4vxEXDi0zQyGeBw0XvcBVz/view?usp=share_link
